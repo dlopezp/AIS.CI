@@ -15,7 +15,7 @@ public class Message {
 	}
 	
 	public void setValue(String value) {
-		this.value = value;
+		this.value = value
 	}
 	
 }
