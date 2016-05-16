@@ -23,6 +23,6 @@ public class Message {
 	}
 	
 	public String getYellValue2() {
-		return this.value.toUpperCase();
+		return this.value.toUpperCase()
 	}
 }
