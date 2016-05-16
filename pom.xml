@@ -37,11 +37,11 @@
 	</dependencies>
 
 	<scm>
-        <connection>scm:git:https://github.com/dlopezp/AIS.CI</connection>
-        <developerConnection>scm:git:git@github.com:dlopezp/AIS.CI.git</developerConnection>
-        <url>scm:git:https://github.com/dlopezp/AIS.CI</url>
-      	<tag>master</tag>
-  	</scm>
+		<connection>scm:git:git@github.com:dlopezp/AIS.CI.git</connection>
+		<developerConnection>scm:git:git@github.com:dlopezp/AIS.CI.git</developerConnection>
+		<url>scm:git:git@github.com:dlopezp/AIS.CI.git</url>
+		<tag>master</tag>
+	</scm>
 	
 	<build>
 		<plugins>
