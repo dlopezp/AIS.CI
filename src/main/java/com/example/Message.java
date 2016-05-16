@@ -14,10 +14,6 @@ public class Message {
 		return this.value;
 	}
 	
-	public String getValue2() {
-		return this.value;
-	}
-	
 	public void setValue(String value) {
 		this.value = value;
 	}
