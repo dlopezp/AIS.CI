@@ -38,7 +38,7 @@
 	</dependencies>
 
 	<scm>
-		<developerConnection>scm:git:ssh://github.com/dlopezp/AIS.CI.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/dlopezp/AIS.CI.git</developerConnection>
 		<url>https://github.com/dlopezp/AIS.CI.git</url>
 	</scm>
 	
