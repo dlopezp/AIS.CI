@@ -18,11 +18,4 @@ public class Message {
 		this.value = value;
 	}
 	
-	public String getYellValue() {
-		return this.value.toUpperCase();
-	}
-	
-	public String getYellValue2() {
-		return this.value.toUpperCase()
-	}
 }
