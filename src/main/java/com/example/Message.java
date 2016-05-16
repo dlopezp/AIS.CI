@@ -17,4 +17,12 @@ public class Message {
 	public void setValue(String value) {
 		this.value = value;
 	}
+	
+	public String getYellValue() {
+		return this.value.toUpperCase();
+	}
+	
+	public String getYellValue2() {
+		return this.value.toUpperCase();
+	}
 }
