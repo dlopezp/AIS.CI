@@ -13,7 +13,7 @@ public class HelloController {
 	public ResponseEntity<Message> hello(
 		@PathVariable("name") String name
 	) {
-		return new ResponseEntity<>(new Message("Hola " + name + "!!"), HttpStatus.OK);
+		return new ResponseEntity<>(new Message("Hey " + name + "!!"), HttpStatus.OK);
 	}
 	
 }
