@@ -4,6 +4,9 @@ public class Message {
 
 	private String value;
 	
+	/*
+		Constructor vacio para hacer la clase inyectable
+	*/
 	public Message() {}
 	
 	public Message (String value) {
