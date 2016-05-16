@@ -40,7 +40,7 @@
         <connection>scm:git:https://github.com/dlopezp/AIS.CI</connection>
         <developerConnection>scm:git:git@github.com:dlopezp/AIS.CI.git</developerConnection>
         <url>scm:git:https://github.com/dlopezp/AIS.CI</url>
-      	<tag>HEAD</tag>
+      	<tag>master</tag>
   	</scm>
 	
 	<build>
